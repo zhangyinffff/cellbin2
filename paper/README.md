@@ -1,8 +1,8 @@
-## Xenium data <br>
+#### Xenium data <br>
 step1: convert data run xenium.py<br>
 step2: 
 
-#### 1. B03205D314 Human Lung
+#### B03205D314 Human Lung
 ```shell
 -c
 B03205D314
